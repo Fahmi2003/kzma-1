@@ -127,7 +127,7 @@ async def amireallyalive(on):
                      f"T-V: {version.__version__} \n"
                      f"PY-V: {python_version()} \n"
                      "------------------------------------ \n"
-                     f"@WhyIamDoingThis bilang: {DEFAULTUSER} \n"
+                     f"User: {DEFAULTUSER} \n"
                      "------------------------------------ \n"
                      "Jangan Pake Bot Nanti Diban\n"
                      "Ucapkan Assalamualaikum\n\n"
