@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/mkaraniya/OpenUserBot",
-  "website": "https://telegra.ph/How-to-host-a-Telegram-Userbot-11-02",
-  "success_url": "https://t.me/PPE_Support",
+  "repository": "https://github.com/fumakotaro101/kzma-1",
+  "website": "https://t.me/cheaterip",
+  "success_url": "https://t.me/animecheat",
   "stack": "container",
   "env": {
     "API_KEY": {
