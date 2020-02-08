@@ -54,7 +54,7 @@ async def mention_afk(mention):
             if mention.sender_id not in USERS:
                 if AFKREASON:
                     await mention.reply(f"I'm AFK right now.\
-                        \nBecause I'm: `{AFKREASON}`")
+                        \n AFK SABAR Because I'm: `{AFKREASON}`")
                 else:
                     await mention.reply(str(choice(AFKSTR)))
                 USERS.update({mention.sender_id: 1})
@@ -165,6 +165,6 @@ CMD_HELP.update({
     "afk":
     ".afk [Optional Reason]\
 \nUsage: Sets you as afk.\nReplies to anyone who tags/PM's \
-you telling them that you are AFK(reason).\n\nSwitches off AFK when you type back anything, anywhere.\
+you telling them that you are AFK BENTAR(reason).\n\nSwitches off AFK when you type back anything, anywhere.\
 "
 })
