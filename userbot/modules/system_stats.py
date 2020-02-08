@@ -129,9 +129,9 @@ async def amireallyalive(on):
                      "------------------------------------ \n"
                      f"User: {DEFAULTUSER} \n"
                      "------------------------------------ \n"
-                     "Jangan Pake Bot Nanti Diban\n"
-                     "Ucapkan Assalamualaikum\n\n"
-                     "T.me/WhyIamDoingThis\n")
+                     "Jangan Pake Bot Nanti Diban🤣\n"
+                     " THE KUDA•́SHADOW \n\n"
+                     "BUILD = [ T.me/TITIT_KUDA ]\n")
 
 
 
