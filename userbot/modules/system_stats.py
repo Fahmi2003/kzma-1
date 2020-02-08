@@ -122,7 +122,7 @@ async def pipcheck(pip):
 @register(outgoing=True, pattern="^.on$")
 async def amireallyalive(on):
     """ For .on command, check if the bot is running.  """
-    await on.edit("Ex #3 Squad FPP S6\n"
+    await on.edit("SUPORT : Animecheat CokLimite🗨️\n"
                      "------------------------------------ \n"
                      f"T-V: {version.__version__} \n"
                      f"PY-V: {python_version()} \n"
